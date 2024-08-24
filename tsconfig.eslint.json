@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "src/**/*",
+    ".eslintrc.js",
+    "package.json",
+    "tsconfig.eslint.json",
+    "gatsby-*.ts",
+    "commitlint.config.js"
+  ]
+}
